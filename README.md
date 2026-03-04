@@ -53,7 +53,7 @@ This is not a text scanner. It's a **curated contextual layer** built by the com
 - `DALAMUD_HOME` environment variable pointing to your Dalamud runtime folder
 
 ```bash
-git clone https://github.com/yourusername/ProjectAcquiesce
+git clone https://github.com/ProjectAcquiesce/ProjectAcquiesce
 cd ProjectAcquiesce
 dotnet build
 ```
