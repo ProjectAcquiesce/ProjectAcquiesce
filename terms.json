@@ -1,0 +1,92 @@
+{
+  "Gridania": {
+    "Category": "Nation",
+    "IntroducedIn": 65601,
+    "Simple": "A forest city-state nestled within the Twelveswood. Gridania is known for its reverence of the elementals and its cautious stance toward outsiders.",
+    "Expanded": "One of the three great city-states of Eorzea. Gridania is governed under the spiritual authority of the Elder Seedseer and defended by the Wood Wailers. Its culture is deeply tied to the elementals — powerful spirits of the forest whose blessing is required for the city to thrive. Outsiders are regarded with suspicion, a tension that sits at the heart of many early ARR storylines."
+  },
+  "Carline Canopy": {
+    "Category": "Location",
+    "IntroducedIn": 65601,
+    "Simple": "The headquarters of Gridania's Adventurers' Guild. Overseen by Mother Miounne.",
+    "Expanded": "A building in Gridania's New Gridania ward that serves as the local hub for adventurers. Mother Miounne runs it as both a practical resource and a quiet diplomatic tool — keeping adventurers organised, purposeful, and visible to a population that does not always trust them."
+  },
+  "Adventurers' Guild": {
+    "Category": "Institution",
+    "IntroducedIn": 65601,
+    "Simple": "An organisation that registers and assigns work to adventurers across Eorzea.",
+    "Expanded": "The Adventurers' Guild operates across Eorzea's city-states, providing structure for the loose collection of wanderers, fighters, and skilled individuals who take on work for coin. Each city-state maintains its own branch with its own culture. In Gridania, the guild is particularly important as a buffer between mistrustful citizens and the adventurers they nonetheless rely on."
+  },
+  "Twelveswood": {
+    "Category": "Location",
+    "IntroducedIn": 65601,
+    "Simple": "The vast ancient forest surrounding Gridania, believed to be watched over by the elementals.",
+    "Expanded": "A sprawling woodland that predates human settlement. The Twelveswood is not merely a forest — it is treated as a living, sentient presence by Gridania's people. The elementals who dwell within it have the power to expel or destroy those they deem unwelcome, and this relationship shapes every aspect of Gridanian society."
+  },
+  "Eorzea": {
+    "Category": "Region",
+    "IntroducedIn": 65601,
+    "Simple": "The continent and surrounding lands where the story of Final Fantasy XIV takes place.",
+    "Expanded": "Eorzea encompasses the continent of Aldenard and several surrounding islands, home to the three great city-states — Gridania, Ul'dah, and Limsa Lominsa — as well as Ishgard in the north. It is a land defined by cycles of calamity and renewal, watched over by the Twelve and threatened by both beast tribe primals and the Garlean Empire."
+  },
+  "Ixal": {
+    "Category": "Beast Tribe",
+    "IntroducedIn": 65601,
+    "Simple": "A hostile bird-like beast tribe that frequently clashes with Gridania and its surrounding territories.",
+    "Expanded": "The Ixal are an avian beast tribe who once had the ability to fly before a divine punishment stripped them of their wings. They revere the primal Garuda and seek to summon her to restore their former glory. Their conflict with Gridania is ongoing and a source of persistent threat throughout A Realm Reborn."
+  },
+  "Garlean Empire": {
+    "Category": "Nation",
+    "IntroducedIn": 65601,
+    "Simple": "A powerful northern empire threatening the city-states of Eorzea.",
+    "Expanded": "A technologically advanced imperial power that rejects the use of aether-based magic in favour of magitek engineering. Born from a small republic that rose rapidly through military conquest, the Garlean Empire views Eorzea as a territory to be subjugated. Its looming presence over the realm is one of the defining threats of A Realm Reborn."
+  },
+  "Calamity": {
+    "Category": "Historical Event",
+    "IntroducedIn": 65601,
+    "Simple": "A catastrophic event five years ago in which the lesser moon Dalamud fell and devastated Eorzea.",
+    "Expanded": "Formally known as the Seventh Umbral Calamity. The fall of Dalamud unleashed the elder primal Bahamut, whose rampage laid waste to vast swathes of Eorzea. The event marked the end of the Sixth Astral Era. Strangely, many survivors retain only fragmented memories of exactly what occurred — a mystery that becomes significant as the story progresses."
+  },
+  "Dalamud": {
+    "Category": "Historical Event",
+    "IntroducedIn": 65601,
+    "Simple": "The lesser red moon that fell from the sky, triggering the Calamity.",
+    "Expanded": "Dalamud was long believed to be one of two natural moons orbiting the world. In truth it was an ancient structure of Allagan origin, used as a prison for the elder primal Bahamut. When it was brought down during the Battle of Carteneau, Bahamut was unleashed upon the world. The event reshaped Eorzean geography and collective memory alike."
+  },
+  "Warriors of Light": {
+    "Category": "Mythic Figures",
+    "IntroducedIn": 65601,
+    "Simple": "Legendary adventurers said to have saved Eorzea during the Calamity. Their identities are unknown.",
+    "Expanded": "In the years following the Calamity, survivors across Eorzea share a common experience: they remember being saved, but cannot recall the faces or names of those who saved them. Only silhouettes remain in memory. These unnamed heroes have come to be called the Warriors of Light. Their true nature is one of the central mysteries of A Realm Reborn."
+  },
+  "Wood Wailers": {
+    "Category": "Faction",
+    "IntroducedIn": 65601,
+    "Simple": "Gridania's order of soldiers tasked with maintaining peace within the Twelveswood.",
+    "Expanded": "The Wood Wailers serve as Gridania's military and law enforcement force. Composed largely of lancers, they patrol the Twelveswood, defend against Ixal incursions, and monitor outsiders within city limits. They are known for their wariness of adventurers — a cultural tension that surfaces early in the MSQ."
+  },
+  "Elder Seedseer": {
+    "Category": "Political Figure",
+    "IntroducedIn": 65601,
+    "Simple": "The spiritual and political leader of Gridania, said to commune with the elementals.",
+    "Expanded": "The Elder Seedseer holds both religious and governmental authority in Gridania. The Seedseer lineage is gifted with the ability to hear the will of the elementals, making them essential mediators between the forest spirits and the people who live under their protection. The current Elder Seedseer plays a quiet but significant role in early ARR events."
+  },
+  "elementals": {
+    "Category": "Entities",
+    "IntroducedIn": 65601,
+    "Simple": "Powerful nature spirits believed to watch over the Twelveswood and guide Gridania's people.",
+    "Expanded": "The elementals are ancient, enigmatic entities of pure aether bound to the Twelveswood. They do not communicate easily with mortals — only the Seedseer line can reliably interpret their will. They are deeply protective of the forest and can become hostile or catastrophic if provoked. Gridanian society is structured around maintaining harmony with them."
+  },
+  "Bentbranch Meadows": {
+    "Category": "Location",
+    "IntroducedIn": 65602,
+    "Simple": "A settlement in the Central Shroud, southeast of Gridania. A key staging point for adventurers heading into the field.",
+    "Expanded": "Bentbranch Meadows is one of the first field locations an adventurer encounters in the Central Shroud. It serves as a chocobo post and supply hub, connecting Gridania to the wider Twelveswood. Early quests here introduce the player to the practical reality of adventuring beyond city walls."
+  },
+  "Gods' Quiver": {
+    "Category": "Faction",
+    "IntroducedIn": 65602,
+    "Simple": "An elite order of archers who serve as Gridania's ranged combat force and forest scouts.",
+    "Expanded": "The Gods' Quiver are archers sworn to protect the Twelveswood and, by extension, Gridania. Distinct from the Wood Wailers who handle close-quarters and city patrol, the Gods' Quiver operate across the wider forest, engaging threats at range. Their name references the Twelve — they are said to loose arrows as offerings to the gods."
+  }
+}
