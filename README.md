@@ -25,7 +25,7 @@ This is not a text scanner. It's a **curated contextual layer** built by the com
 
 | Expansion | Quests Covered | Terms Indexed |
 |-----------|---------------|---------------|
-| A Realm Reborn | 2 / ~100 | 14 |
+| A Realm Reborn | 2 / ~240-243 | 14 |
 | Heavensward | — | — |
 | Stormblood | — | — |
 | Shadowbringers | — | — |
