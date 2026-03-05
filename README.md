@@ -108,7 +108,7 @@ Term descriptions in `terms.json` should be:
 - **Plugin developers (C#):** See open issues tagged `dev`
 - **UI designers:** The glossary window needs a proper Sharlayan aesthetic pass — see issues tagged `ui`
 - **Lore reviewers:** Check accuracy of term descriptions — see issues tagged `lore`
-- **Moderators:** Join our [Discord](#) to help coordinate contributors
+- **Moderators:** Join our [Discord](https://discord.gg/qcmxrZt2) to help coordinate contributors
 
 ---
 
